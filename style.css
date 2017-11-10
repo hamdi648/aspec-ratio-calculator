@@ -1,0 +1,22 @@
+.container {
+	width: 200px;
+	height: 500px;
+	background-color: #B0BEC5;
+	margin: 150px;
+	padding: 0 auto;
+	border-radius: 25px;
+
+}
+
+h2 {
+	margin: 0;
+}
+
+#theheight {
+	display: none;
+}
+
+#thewidth {
+	display: none;
+}
+
